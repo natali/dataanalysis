@@ -1,0 +1,11 @@
+,bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,ratings_count,text_reviews_count
+0,1,Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling,4.56,0439785960,9780439785969,eng,652,1944099,26249
+4,5,Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling,4.55,043965548X,9780439655484,eng,435,2149872,33964
+1,2,Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling,4.49,0439358078,9780439358071,eng,870,1996446,27613
+2,3,Harry Potter and the Sorcerer's Stone (Harry Potter  #1),J.K. Rowling,4.47,0439554934,9780439554930,eng,320,5629932,70390
+4455,13496,A Game of Thrones (A Song of Ice and Fire  #1),George R.R. Martin,4.45,0553588486,9780553588484,eng,848,1598396,37379
+5300,15881,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,4.41,0439064864,9780439064866,eng,341,2115562,32694
+6363,19063,The Book Thief,Markus Zusak,4.37,0375831002,9780375831003,eng,552,1410666,84237
+25,34,The Fellowship of the Ring (The Lord of the Rings  #1),J.R.R. Tolkien,4.35,0618346252,9780618346257,eng,398,2009749,12784
+9319,30119,Where the Sidewalk Ends,Shel Silverstein,4.3,0060513039,9780060513030,eng,176,1094416,9754
+2000,5907,The Hobbit or There and Back Again,J.R.R. Tolkien,4.26,0618260307,9780618260300,eng,366,2364968,31664
